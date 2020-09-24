@@ -1,3 +1,3 @@
 SELECT *
 FROM employee
-WHERE departementID = 8 OR departementID = 2
+WHERE NOT departementID = 8
