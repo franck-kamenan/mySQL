@@ -5,3 +5,6 @@ ORDER BY first_name DESC, last_name;
 
 INSERT INTO  departement
 VALUES (12, 'Animal');
+
+INSERT INTO departement(id)
+VALUES (13);
