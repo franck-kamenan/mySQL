@@ -1,3 +1,3 @@
 SELECT *
 FROM employee
-WHERE departementID = 8 AND salary > 1000
+WHERE departementID = 8 OR departementID = 2
