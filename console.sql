@@ -1,2 +1,2 @@
-SELECT *
+SELECT departementName
 FROM departement
