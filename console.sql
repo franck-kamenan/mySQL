@@ -1,4 +1,4 @@
-SELECT e.salary
+SELECT e.*
 FROM employee e
 WHERE departementID = 8
 ORDER BY first_name DESC, last_name;
