@@ -1,2 +1,2 @@
-SELECT DISTINCT gender
+SELECT DISTINCT gender, salary
 FROM employee
