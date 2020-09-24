@@ -1,2 +1,2 @@
-SELECT departementName
-FROM departement
+SELECT *
+FROM employee
