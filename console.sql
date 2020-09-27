@@ -1,5 +1,2 @@
-SELECT departementID as 'DID', avg(salary) as 'AVERAGE SALARY'
+SELECT first_name,  upper(last_name)
 from employee
-where gender like 'Male'
-group by departementID
-having `AVERAGE SALARY` > 750
