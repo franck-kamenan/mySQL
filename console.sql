@@ -1,2 +1,2 @@
-SELECT first_name,  lower(last_name)
+SELECT first_name,  length(first_name)
 from employee
