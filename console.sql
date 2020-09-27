@@ -1,2 +1,2 @@
-SELECT first_name,  upper(last_name)
+SELECT first_name,  lower(last_name)
 from employee
