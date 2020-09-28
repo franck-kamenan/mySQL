@@ -1,2 +1,2 @@
-SELECT first_name,  round(salary)
+SELECT first_name, salary, round(salary), floor(salary), ceiling(salary)
 from employee
