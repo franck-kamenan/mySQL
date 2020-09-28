@@ -1,2 +1,2 @@
-SELECT first_name,  length(first_name)
+SELECT first_name,  round(salary)
 from employee
